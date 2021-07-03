@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar {
+  background-color: rgb(3, 3, 56);
+
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.navbar-brand {
+  color: white !important;
+}
+
+h1 {
+  font-size: 18px !important;
+  text-align: left !important;
+  color: black !important;
+}
+
+.img-fluid {
+  display: block !important;
+  margin: auto !important;
+  height: 200px !important;
+  width: 200px !important;
+}
+
+.bigimg {
+  height: 600px !important;
+  width: 600px !important;
+}
+
+p {
+  text-align: left !important;
+}
+
+.opt {
+  width: 10% !important;
+}
+
+.button {
+  width: 15% !important;
+
+}
+
+.nav-item {
+  margin-right: 10px;
+}
+
+.navbar-brand {
+  font-size: x-larger !important;
+  margin-left: 10px;
+  font-weight: bolder;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+  font-style: italic !important;
+}
+
+h2 {
+  font-size: 25px !important;
+  font-weight: bold !important;
+}
+
+.btn {
+  background-color: black !important;
+  width: 200px !important;
+  color: white !important;
+}
+
+input {
+  box-shadow: none !important;
+  margin-top: 10px !important;
+  border-color: 1px black !important;
+}
+
+
+
+.dropdown {
+  margin-top: 15px;
+  margin-right: 15px;
+}
+
+.cartnum {
+  font-size: larger;
+  margin-left: 3px;
+}
