@@ -1,0 +1,4 @@
+bootstrap dropdown not rendering 
+solved using importing in index.js ,links from bootstrap cdn were not working in my case just understood that i initially installed bootstrap css using import in index.js only.
+
+

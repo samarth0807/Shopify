@@ -35,6 +35,7 @@ const dispatch = useDispatch()
                 data-toggle="dropdown"
                 aria-haspopup="true"
                 aria-expanded="false" 
+                // style={{width:'1px'}}
               >
                   <i style={{color:'white'}} className="fa fa-user" aria-hidden="true"></i> {currentUser.name}
               </button>
